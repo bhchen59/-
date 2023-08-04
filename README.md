@@ -1,6 +1,9 @@
 # 每周股票推荐
 根据模型计算进行股票推荐。
 
+![MV1-matlab](https://github.com/bhchen59/Stock-recommendation/assets/140848369/155ecf6a-1ff6-479a-8a88-0566990a6ab7)
+
+
 
 **2023.07.29:**
 
